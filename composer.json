@@ -1,3 +1,5 @@
 {
-  "mame":"lzx/rsyslog"
+    "name": "lzx/rsyslog",
+    "description": "lzxrsyslog",
+    "require": {}
 }
