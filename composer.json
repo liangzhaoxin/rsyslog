@@ -1,7 +1,3 @@
 {
   "mame":"lzx/rsyslog",
-  "description": "php message queue wrapper",
-  "license": "MIT",
-  "keywords": ["message queue"],
-  "version": "1.0.0"
 }
